@@ -1,0 +1,1 @@
+define(['src/my-app.js']);
